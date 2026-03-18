@@ -1,6 +1,6 @@
 Árbol Binario de Búsqueda en Python
------- Integrantes: ------
 
+## Integrantes
 Marvin Eleazar Vásquez Gómez – 9490-18-8656 – 100% Participación
 
 Alfredo Bryan Hernandez Galindo – 9490-20-16716 – 100% Participación
