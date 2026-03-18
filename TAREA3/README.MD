@@ -11,7 +11,7 @@ Este proyecto implementa un **Árbol Binario de Búsqueda (ABB)** en Python, per
 
 El programa funciona mediante un menú interactivo en consola.
 
----
+
 
 ## Funcionalidades
 
@@ -21,19 +21,17 @@ El programa funciona mediante un menú interactivo en consola.
 * Cargar datos desde un archivo `.txt`
 * Visualizar el árbol gráficamente con Graphviz
 
----
 
 ## Estructura del Proyecto
 
-```
+
 TAREA3/
 │── TAREA3.PY          # Programa principal
 │── datos.txt          # Archivo de entrada (opcional)
 │── arbol_binario.png  # Imagen generada del árbol
 │── README.md          # Documentación del proyecto
-```
 
----
+
 
 ## Requisitos
 
@@ -45,9 +43,7 @@ Antes de ejecutar el programa, revisar de tener instalado:
 
 ### 2. Librería Graphviz (Python)
 
-```bash
 pip install graphviz
-```
 
 ### 3. Graphviz (Software)
 
@@ -56,33 +52,30 @@ https://graphviz.org/download/
 
 Luego agregar la ruta al PATH, por ejemplo:
 
-```
 C:\Program Files\Graphviz\bin
-```
 
----
+
 
 ## Ejecución
 
 1. Ubicarse en la carpeta del proyecto
 2. Ejecutar el programa:
 
-```bash
+
 python TAREA3.py
-```
+
 
 3. Seleccionar una opción del menú:
 
-```
+
 1. INSERTAR NODO
 2. BUSCAR NODO
 3. ELIMINAR NODO
 4. CARGAR ARCHIVO
 5. MOSTRAR ARBOL
 6. SALIR
-```
 
----
+
 
 ## Uso de archivo de entrada
 
@@ -90,21 +83,21 @@ El archivo debe contener números separados por comas o espacios.
 
 ### Ejemplo (`datos.txt`):
 
-```
+
 50,30,70,20,40,60,80
-```
+
 
 O también:
 
-```
+
 50 30 70 20 40 60 80
-```
+
 
 Para cargarlo:
 
-```
+
 Ingrese el nombre del archivo: datos.txt
-```
+
 
 ---
 
