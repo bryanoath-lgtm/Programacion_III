@@ -59,15 +59,10 @@ C:\Program Files\Graphviz\bin
 ## Ejecución
 
 1. Ubicarse en la carpeta del proyecto
-2. Ejecutar el programa:
-
-
-python TAREA3.py
-
-
+2. Ejecutar el programa: python TAREA3.py
 3. Seleccionar una opción del menú:
 
-
+## MENU
 1. INSERTAR NODO
 2. BUSCAR NODO
 3. ELIMINAR NODO
