@@ -1,5 +1,13 @@
 # Tarea 6 - Árbol B en Python
 
+## Integrantes
+
+| Nombre | Carnet | Porcentaje de participación |
+|---|---|---|
+| Marvin Eleazar Vásquez Gómez  | 9490-18-8656 | 100% |
+| Alfredo Bryan Hernandez Galindo | 9490-20-16716 | 100% |
+
+
 ## Descripción
 
 Este proyecto implementa un Árbol B configurable por el grado del nodo.  
@@ -60,12 +68,6 @@ Desde la terminal, ubicarse en la carpeta del proyecto y ejecutar:
 
 ```bash
 python Tarea6.py
-```
-
-Si el archivo tiene otro nombre, usar el nombre correspondiente. Por ejemplo:
-
-```bash
-python Tarea6.PY
 ```
 
 ## Uso del programa
@@ -175,7 +177,7 @@ arbolB.png
 
 Este archivo muestra la representación gráfica del Árbol B generado con Graphviz.
 
-## Estructura sugerida del proyecto
+## Estructura del proyecto
 
 ```text
 Tarea6.py
@@ -185,20 +187,6 @@ datos2.csv
 datos3.csv
 ```
 
-## Integrantes
-
-Completar la siguiente información antes de entregar:
-
-| Nombre | Carnet | Porcentaje de participación |
-|---|---|---|
-| Nombre del integrante 1 | Carnet | 50% |
-| Nombre del integrante 2 | Carnet | 50% |
-
-Si el trabajo es individual:
-
-| Nombre | Carnet | Porcentaje de participación |
-|---|---|---|
-| Nombre del estudiante | Carnet | 100% |
 
 ## Notas importantes
 
